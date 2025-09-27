@@ -2,3 +2,5 @@ This is my first file of github for pushing.
 More than what i have learned.
 Some changes for pulling.
 Have some changes for pulling and meging.
+
+Get some changes in local repo.
